@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FontSeekBar">
+        <attr name="seekbar_line_color" format="color"/>
+        <attr name="seekbar_line_height" format="dimension"/>
+        <attr name="seekbar_circle_color" format="color"/>
+        <attr name="seekbar_circle_radius" format="dimension"/>
+        <attr name="seekbar_text_color" format="color"/>
+        <attr name="seekbar_text_padding" format="dimension"/>
+        <attr name="seekbar_text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
